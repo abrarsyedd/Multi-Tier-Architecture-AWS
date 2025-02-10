@@ -80,4 +80,6 @@ Amazon Relational Database Service stores and manages data securely.
 
 ---
 ## 📸 Architecture Diagram
-![AWS Architecture](images/aws_architecture.png)
+![AWS Architecture](images/mutli-tier-arch-1.png)
+![AWS Architecture](images/mutli-tier-arch-2.png)
+![AWS Architecture](images/mutli-tier-arch-3.png)
