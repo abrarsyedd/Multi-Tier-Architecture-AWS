@@ -9,12 +9,12 @@ This project showcases the design and implementation of a highly scalable and re
 ### **1️⃣ Application Load Balancer (Public Subnet)**
 Handles traffic distribution and improves fault tolerance.
 
-⬇️
+                         ⬇️
 
 ### **2️⃣ Application Layer (EC2 + Auto Scaling)**
 Contains the application servers running on EC2 instances. Instances are automatically scaled based on traffic demand.
 
-⬇️
+                         ⬇️
 
 ### **3️⃣ Data Layer (Amazon RDS)**
 Amazon Relational Database Service stores and manages data securely.
