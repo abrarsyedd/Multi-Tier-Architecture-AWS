@@ -79,4 +79,5 @@ Amazon Relational Database Service stores and manages data securely.
 - Built a **production-grade solution** suitable for real-world applications.
 
 ---
-
+## 📸 Architecture Diagram
+![AWS Architecture](images/aws_architecture.png)
