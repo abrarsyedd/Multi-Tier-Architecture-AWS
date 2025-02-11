@@ -11,9 +11,4 @@
 ## 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
 
-## 📸 Architecture Diagram
-![AWS Architecture](images/multi-tier-arch-1.png)
-![AWS Architecture](images/multi-tier-arch-2.png)
-![AWS Architecture](images/multi-tier-arch-3.png)
-
 🔗 [View the full project documentation](docs/project_steps.md)
