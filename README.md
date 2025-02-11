@@ -1,6 +1,6 @@
 # Multi-Tier Architecture on AWS
 
-🚀 A scalable and fault-tolerant AWS architecture using EC2, ALB, RDS, and Auto Scaling.
+🚀 Scalable application architecture on AWS, organized into multiple tiers for enhanced reliability and efficiency.
 
 ## 🌟 Features
 - Load Balancing with ALB
